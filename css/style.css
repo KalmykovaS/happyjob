@@ -53,7 +53,7 @@ input[type="radio"].visually-hidden {
   .percent-holder__wrapper::after {
     content: "";
     position: absolute;
-    background: url(../../img/loyalty.svg) no-repeat;
+    background: url(../img/loyalty.svg) no-repeat;
     width: 40px;
     height: 45px;
     top: -25px;
